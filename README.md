@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on Python Full stack development(FLASK)<br>I'm learning MEA(R)N<br>FunFact lame jokes.
+currently working on Python Full stack development(FLASK)<br>I'm learning MEA(R)N.
 
 
 ## 🌐 Socials:
